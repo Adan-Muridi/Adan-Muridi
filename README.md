@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-"Hi, I'm a newly graduated junior developer. I have recently completed my first internship as a developer. I have a strong foundation in the .Net stack and am proficient in languages/frameworks such as C# and ASP.NET, as well as JavaScript and React. I'm excited to continue learning and growing as a developer and am eager to contribute to meaningful projects. Thanks for visiting my profile!"
+Hi, I'm a newly graduated junior developer. I have recently completed my first internship as a developer. I have a strong foundation in the .Net stack and am proficient in languages/frameworks such as C# and ASP.NET, as well as JavaScript and React. I'm excited to continue learning and growing as a developer and am eager to contribute to meaningful projects. Thanks for visiting my profile!
 
 * 🌍  I'm based in Stockholm
 * 🧠  I'm learning TypeScript
