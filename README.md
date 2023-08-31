@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adan Muridi
 ========================================================================================================================================
 
-Web developer
+Developer
 -------------
 
 Hi, I'm a newly graduated junior developer. I have recently completed my first internship as a developer. I have a strong foundation in the .Net stack and am proficient in languages/frameworks such as C# and ASP.NET, as well as JavaScript and React. I'm excited to continue learning and growing as a developer and am eager to contribute to meaningful projects. Thanks for visiting my profile!
